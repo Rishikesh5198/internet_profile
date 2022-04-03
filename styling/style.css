@@ -1,0 +1,69 @@
+.name
+{
+    margin-top: 2px;
+    color:cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.info
+{
+   
+  float: right;
+    font-size: small;
+   color: cadetblue;
+   font-weight: bold;
+}
+
+.edu
+{
+  margin-top: 48px;
+  
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: cadetblue;
+  font-weight: bold;
+  background-color: beige;
+
+}
+.edu1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+    padding-bottom: 5px;
+}
+.employement
+{
+    color:cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: beige;
+    padding-top: 5px;
+    padding-bottom: 7px;
+}
+.employement1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+    padding-bottom: 5px;
+}
+
+.extra
+{
+    color:cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: beige;
+    padding-top: 5px;
+    padding-bottom: 7px;
+}
+.extra1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+    padding-bottom: 5px;
+}
+body
+{
+    border: 2px solid cadetblue;
+}
